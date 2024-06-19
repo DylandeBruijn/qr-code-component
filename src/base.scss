@@ -1,0 +1,14 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    font-size: 1rem;
+    background-color: var(--clr-light-grey);
+    text-align: center;
+    line-height: 1.2;
+}
