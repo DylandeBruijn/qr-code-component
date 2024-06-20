@@ -32,16 +32,3 @@
         color: var(--clr-dark-navy);
     }
 }
-
-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    font-size: 0.8rem;
-    background-color: var(--clr-white);
-    padding: 0.5rem;
-
-    a {
-        color: hsl(228, 45%, 44%);
-    }
-}
