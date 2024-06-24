@@ -1,3 +1,3 @@
 ![](./screenshot.png)
 
--   [Live URL](https://qr-code-component-kohl-delta.vercel.app/)
+[Live Site](https://qr-code-component-kohl-delta.vercel.app/)
